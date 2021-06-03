@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A petition of the justices of peace, grand jury men, and other gentlemen, at the quarter sessions holden at Hereford for the same county. Presented to the right honorable House of Commons assembled in Parliament With a ioyful acclamation from the wel-affected in the city and county of Worcester. Presented to the Lord General Fairfax, and Councel of Officers. Thursday. Ianuary 25. 1648. Published by authority.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90592</idno><idno type="EEBO-CITATION">99895720</idno>
+  <idno type="VID">153263</idno>
+  <idno type="EEBO-PROQUEST">2240922483</idno>
+  
+            <idno type="STC">Wing P1805B</idno>
+            <idno type="STC">ESTC R229894</idno>
+            <idno type="PROQUEST">99895720</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895720e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90592)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153263)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2357:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A petition of the justices of peace, grand jury men, and other gentlemen, at the quarter sessions holden at Hereford for the same county. Presented to the right honorable House of Commons assembled in Parliament With a ioyful acclamation from the wel-affected in the city and county of Worcester. Presented to the Lord General Fairfax, and Councel of Officers. Thursday. Ianuary 25. 1648. Published by authority.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Giles Calvert,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Hereford (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Worcester (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153263:1"/>
+            <p>A PETITION OF THE Justices of Peace, Grand Jury men, and other Gentlemen, at the <hi>Quarter Sessions</hi> holden at <hi>Hereford</hi> for the same County.</p>
+            <p>PRESENTED To the Right Honorable House OF COMMONS Assembled in PARLIAMENT.</p>
+            <p>WITH A loyful Acclamation From the wel-affected in the City and County of <hi>Worcester.</hi>
+            </p>
+            <p>Presented to the Lord General <hi>Fairfax,</hi> and Councel of Officers. <hi>Thursday.</hi>
+            </p>
+            <p>
+               <hi>Ianuary</hi> 25. 1648.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Published by Authority.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Giles Calvert.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition_to_Parliament">
+            <pb facs="tcp:153263:2"/>
+            <pb n="3" facs="tcp:153263:2"/>
+            <head type="sub">To the Right Honorable, the House of COMMONS in Parliament Assembled.</head>
+            <head>The Humble Petition of the Iustices of Peace, Grand Jury men, and other Gentlemen at the <hi>Quarter Sessions</hi> holden at <hi>Hereford</hi> for the same County, the 9. day of January, 1648.</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat being sensible of the miseries of this poor almost wasted King<g ref="char:EOLhyphen"/>dom, and of the long continued sufferings of this County in parti<g ref="char:EOLhyphen"/>cular, and finding by experience, we had been all brought to ex<g ref="char:EOLhyphen"/>tream misery, and total ruine be<g ref="char:EOLhyphen"/>fore this day, had not God appeared as wonderful with, and for the General, Lieutenant General; and their faithful Commanders and souldiers of late,
+<pb n="4" facs="tcp:153263:3"/> as ever he did by miracles for his people of old; and in our apprehensions, there being under you no other visible means or power, by whom God doth appear to save this poor Kingdom from the bloody Irish, that party of perfidious, plundering Scots that last invaded our Kingdom, together with the Malignant, Trecherous English, then this pre<g ref="char:EOLhyphen"/>sent Army, whose valour God hath made a terror to all our enemies; do therefore humbly propound, That you will hear the General, and General Coun<g ref="char:EOLhyphen"/>cel of the Army, in all things tending to the spee<g ref="char:EOLhyphen"/>die settlement of this Kingdom, that as one man, we may joyn together to oppose what force soever shall invade us. That you will take a speedy course that all Treasurers, Committees, and Sequestrators b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> brought to a speedy and strict account. That the best advantage be made of all Sequestrated estates, and the general receipts of the Kingdom may be im<g ref="char:EOLhyphen"/>proved for the publike, with the best advantage. That you will take a special care for the payment of the Army, and with all possible speed take off the great burthen of Free Quarter. That no man be forced to give Free Quarter, unlesse he deny, or de<g ref="char:EOLhyphen"/>lay payment of his Assessment. That the Salary, or allowance of men in publick Imployments, may not exceed, during the continuance of our great pay<g ref="char:EOLhyphen"/>ments. And that no man may be forced to serve the S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate at his own charge, from the greatest, to a petty Constable. That all such persons as be in any pub<g ref="char:EOLhyphen"/>lick imployment, that lengthen our miseries, by turn<g ref="char:EOLhyphen"/>ing with all windes and tides for their own advan<g ref="char:EOLhyphen"/>tage, may be put out, and all opportunities taken to
+<pb n="5" facs="tcp:153263:3"/> put an end to our troubles, that the generation to come may bless God for some that continued faith<g ref="char:EOLhyphen"/>ful. That you will send forth men of able gifts and parts to preach the Gospel to those that sit in dark<g ref="char:EOLhyphen"/>ness. And lastly, give us leave to present the great sufferings of this County, by paying in all paiments, almost, (if not altogether) double as much as any adjacent County, occasioned formerly by difference, and malice, between some of the chief houses, and families of our County, and our great sufferings when the Scots lay so long before <hi>Hereford;</hi> the many thousands pounds that have been collected from us to disband Col. <hi>Birches</hi> Regiment, of which (we never received one peny) and others raised since; and yet never being freed from free quarter<g ref="char:EOLhyphen"/>ing, unlesse it were for some few weeks.</p>
+            <p>All which, we hope, you will take into considera<g ref="char:EOLhyphen"/>tion, in conveient time, and in all your good ende<g ref="char:EOLhyphen"/>vors, tending to a speedy settlement of this King<g ref="char:EOLhyphen"/>dom, we will to the utmost of our power, as God shall enable us, assist you and your faithful Army, under the command of the General.</p>
+            <closer>And shall ever pray, <hi>&amp;c.</hi>
+            </closer>
+         </div>
+         <div type="signatures_to_petition">
+            <pb n="6" facs="tcp:153263:4"/>
+            <list>
+               <head>Justices of Peace.</head>
+               <item>
+                  <hi>THomas Baskervile</hi>
+               </item>
+               <item>
+                  <hi>John James</hi>
+               </item>
+               <item>
+                  <hi>Thomas Rawlings</hi>
+               </item>
+               <item>
+                  <hi>Francis Pember</hi>
+               </item>
+               <item>
+                  <hi>Henry Williams</hi>
+               </item>
+               <item>
+                  <hi>Thom. Seaborne,</hi> Esquires, Major of the City of <hi>Hereford.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Grand Jury.</head>
+               <item>
+                  <hi>John Vernal</hi>
+               </item>
+               <item>
+                  <hi>Thomas Andrews</hi>
+               </item>
+               <item>
+                  <hi>Iohn Lenitoll</hi>
+               </item>
+               <item>
+                  <hi>Anthony Carwardine</hi>
+               </item>
+               <item>
+                  <hi>William Clark</hi>
+               </item>
+               <item>
+                  <hi>Iohn Taylor</hi>
+               </item>
+               <item>
+                  <hi>Richard Gwatkin</hi>
+               </item>
+               <item>
+                  <hi>Thomas Church</hi>
+               </item>
+               <item>
+                  <hi>Iohn Leech</hi> junior</item>
+               <item>
+                  <hi>Iohn Lufton</hi>
+               </item>
+               <item>
+                  <hi>Thomas Eynion</hi>
+               </item>
+               <item>
+                  <hi>Iohn Simmonds</hi>
+               </item>
+               <item>
+                  <hi>Rowland Bethel</hi>
+               </item>
+               <item>
+                  <hi>Iohn Colley</hi>
+               </item>
+               <item>
+                  <hi>William Marsh</hi>
+               </item>
+               <item>
+                  <hi>Thomas Williams</hi>
+               </item>
+               <item>
+                  <hi>Francis Sheward</hi>
+               </item>
+               <item>
+                  <hi>William Brown</hi>
+               </item>
+               <item>
+                  <hi>Thomas Danet</hi>
+               </item>
+            </list>
+            <list>
+               <head>Gentlemen.</head>
+               <item>Sir <hi>Iohn Bridges,</hi> Knight and Baronet</item>
+               <item>
+                  <hi>Robert Higgins</hi>
+               </item>
+               <item>
+                  <hi>Thomas Higgins</hi>
+               </item>
+               <item>
+                  <hi>Arthur Cockerham</hi>
+               </item>
+               <item>
+                  <hi>Robert Flacket</hi>
+               </item>
+               <item>
+                  <hi>Thomas Careles</hi>
+               </item>
+               <item>
+                  <hi>Oliver Chambers</hi>
+               </item>
+               <item>
+                  <hi>Francis Walker</hi>
+               </item>
+               <item>
+                  <hi>Miles Hill</hi>
+               </item>
+               <item>
+                  <hi>Francis Pember</hi> junior</item>
+               <item>
+                  <hi>Henry Williams</hi>
+               </item>
+               <item>
+                  <hi>Iohn Herring</hi>
+               </item>
+               <item>
+                  <hi>Verney Higgins</hi>
+               </item>
+               <item>
+                  <hi>Thomas Hewet</hi>
+               </item>
+               <item>
+                  <hi>Francis Bifield</hi>
+               </item>
+               <item>
+                  <hi>Alexander Garston</hi>
+               </item>
+               <item>
+                  <hi>Iohn Pembridg</hi>
+               </item>
+               <item>
+                  <hi>William Careles</hi>
+               </item>
+               <item>
+                  <hi>Iohn Wolfe</hi>
+               </item>
+               <item>
+                  <hi>Philip Sterky</hi>
+               </item>
+               <item>
+                  <hi>Ioseph Patshal</hi>
+               </item>
+               <pb n="7" facs="tcp:153263:4"/>
+               <item>
+                  <hi>Edward Hussey</hi>
+               </item>
+               <item>
+                  <hi>Iohn Adis</hi>
+               </item>
+               <item>
+                  <hi>Iohn Chomley</hi>
+               </item>
+               <item>
+                  <hi>Thomas Williams</hi>
+               </item>
+               <item>
+                  <hi>Iohn Walsam</hi>
+               </item>
+               <item>
+                  <hi>William Williams</hi>
+               </item>
+               <item>
+                  <hi>Iames Woodhouse</hi>
+               </item>
+               <item>
+                  <hi>Iohn Harris</hi>
+               </item>
+               <item>
+                  <hi>Edmund Orub</hi>
+               </item>
+               <item>
+                  <hi>Walter Wollaston</hi>
+               </item>
+               <item>
+                  <hi>William Hooper</hi>
+               </item>
+               <item>
+                  <hi>Richard Putney</hi>
+               </item>
+            </list>
+         </div>
+         <div type="response_to_petition">
+            <p>The Gentlemen that presented this Petition, were by the Sergeant of the House, called unto the Com<g ref="char:EOLhyphen"/>mons Bar, where Mr. Speaker told them, That he was commanded by the House, to give them hearty thanks for their Petition, and for their affectionate expressions therein, who did assure them, That the House would take all possible and speedy care, for the setling and ease of the Kingdom; and that the particulars in their Petition, should be taken into their serious consideration in convenient time.</p>
+         </div>
+         <div type="document">
+            <argument>
+               <pb n="8" facs="tcp:153263:5"/>
+               <p>
+                  <hi>Ʋpon Thursday, January 25. there was presented to his Ex<g ref="char:EOLhyphen"/>cellency, and his General Councel of War,</hi> An Acclamation <hi>from the wel affected Gentlemen of the Committee, Ministers, Com<g ref="char:EOLhyphen"/>mon-Councel, Grand Jury, Souldiers, and divers hundreds of the Inhaebitants of the County and City of</hi> Worcester, <hi>as followeth.</hi>
+               </p>
+            </argument>
+            <head type="sub">For his Excellency <hi>Thomas</hi> Lord <hi>Fairfax,</hi> and the honorable Councel of War.</head>
+            <head>The joyful Acclamations of the well-affected, in the City and County of <hi>Worcester.</hi>
+            </head>
+            <p>BLessed Patriots; for you have been blessed: And the real pursuance of your late Remon<g ref="char:EOLhyphen"/>strance (so uprightly stated) will record you so much more to all posterity, Founders of our Peace, as well as confounders of our foes.</p>
+            <p>We cannot but send you our Acclamations to strengthen and quicken your hands in that mighty work; and few, though we be, that yet appear, yet assured we are, that suitable actings to such Just Prin<g ref="char:EOLhyphen"/>ciples (you neither seeking your selves, nor too much the compliance of others) will soon bring in all the upright in the whole Land unto you. And not one<g ref="char:EOLhyphen"/>ly so, but will further make you glorious Patterns to all other people, for the good of all Nations.</p>
+            <p>Proceed therefore (or else undoubtedly you soon ruine, both your friends, and selves) vigorously, and throughly in the name of the Lord, and you will eternize your own, while we subscribe ours: In life and death,</p>
+            <closer>
+               <signed>Yours in all righteous ways, for Publike Interest.</signed>
+            </closer>
+         </div>
+         <argument>
+            <p>Mr. <hi>Moor</hi> was desired to return thanks from his Excellency and General Officers, to the foresaid Gentlemen, for their good affections; and that their desires should be promoted.</p>
+         </argument>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
